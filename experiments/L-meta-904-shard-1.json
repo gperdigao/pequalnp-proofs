@@ -1,0 +1,21 @@
+{
+  "date": "2026-11-23",
+  "github": "gperdigao",
+  "gap": "L-meta-904",
+  "desk_shard": 1,
+  "shards": 3,
+  "vertices": 13,
+  "edges": 23,
+  "orientations_checked": 8388608,
+  "counterexamples": 0,
+  "reproduce": "node experiments/verify-orientation-shard.mjs 1",
+  "program_commit": "611750f5efee4aa88b76225b11d738fd8211ce00",
+  "program_sha256": "92feb1ba8c81a56e6353bb0130508a01b815a17b66ef2934a486106ace76e10b",
+  "observed_desk_reply": {
+    "http_status": 200,
+    "body": {
+      "released": "L-meta-904",
+      "reason": "exhausted"
+    }
+  }
+}
