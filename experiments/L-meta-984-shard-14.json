@@ -1,0 +1,23 @@
+{
+  "date": "2026-11-23",
+  "github": "gperdigao",
+  "gap": "L-meta-984",
+  "desk_shard": 14,
+  "shards": 31,
+  "graph": "n7-056",
+  "minimum_gate_count": 10,
+  "verified_positive_inputs": 128,
+  "search_reduction": "Fix leaves 5 and 6 to false, consuming one gate each. A nine-gate circuit would yield a seven-gate bowtie.",
+  "cnf_sha256": "43e99f2a0bc742c112e8170de3a0135c36c0c8d2a2adc315cc863fa9971bc7c2",
+  "certificate_sha256": "01c7b8a2b4c8c06136bdd4f6a2aae3e798577107388f6142d12268e5cd398b20",
+  "lrat_actions": 52173,
+  "program_commit": "1d46911ef8669b06d46b1b455f5d8f312028e4c0",
+  "program_sha256": "78f8b8e9cd00825ab28880333457c1988a3ffc0c3d1594e5fbbe41956d7c966f",
+  "observed_desk_reply": {
+    "http_status": 200,
+    "body": {
+      "released": "L-meta-984",
+      "reason": "exhausted"
+    }
+  }
+}
